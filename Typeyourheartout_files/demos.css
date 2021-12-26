@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+*{
+
+	padding:0;
+	margin:0;
+}
+
+body{
+	font-family: 'Lora', serif;
+	font-style: "italic";
+	font-size: 30px;
+	color: black;
+	background:#ffffff;
+}
+
+a{
+	text-decoration: none;
+	color:rgb(255, 255, 255);
+}
+a:hover{
+	color:#ffffff;
+}
+
+button {
+	padding: 10px;
+	border-radius: 3px;
+	background: #ffffff;
+	border: #ffffff 1px solid;
+}
+
+p{
+	line-height: 2em;
+	margin:0 0 20px;
+	text-align: center;
+}
+
+hr{
+	margin: 30px auto;
+}
+
+.title{
+	font-size: 4em;
+}
+
+.wrap{
+	max-width: 600px;
+	margin:50px auto;
+}
+
+.type-wrap{
+	margin-bottom: 0px;
+	margin-top: 20%;
+	padding:10px;
+}
+
+.links{
+	margin:20px 0;
+	font-size: 0.75em;
+}
